@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/map_type_normal"
+        android:title="@string/normal" />
+    <item
+        android:id="@+id/map_type_sattelite"
+        android:title="@string/sattelite" />
+    <item
+        android:id="@+id/map_type_terrain"
+        android:title="Terrain"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/map_type_hybreed"
+        android:title="Hybrid"
+        tools:ignore="HardcodedText" />
+
+
+
+</menu>

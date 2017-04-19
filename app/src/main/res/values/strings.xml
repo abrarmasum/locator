@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Candor</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sattelite">Sattelite</string>
+    <string name="normal">Normal</string>
+    <string name="textview">tv_locality</string>
+    <string name="button">Button</string>
+    <string name="add_image_info_window">Button</string>
+
+</resources>
